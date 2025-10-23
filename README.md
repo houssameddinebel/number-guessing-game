@@ -9,4 +9,4 @@ This game helps practice basic Python skills like loops, conditionals, and user 
 3. Guess the random number the computer chose.
 4. The program will tell you if your guess is too high or too low until you find the correct number.
 
-## 🧠 Example Output
+
